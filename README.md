@@ -51,6 +51,9 @@
 
 1）项目生成依赖项
 
+![image](https://github.com/user-attachments/assets/a305bdc7-02f1-4e9d-9aa0-168c33a0c9c9)
+
+
 ![image-20231010114101960](images/cpp开发shellcode模板/image-20231010114101960.png)
 
 2）asm属性
